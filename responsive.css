@@ -3,11 +3,12 @@
         white-space: nowrap;
         text-overflow: clip;
         width: 30px;
-        color: rgba(255, 255, 255, 0);
+        color: rgba(255, 255, 255, 0) !important;
     }
     header a:hover {
         color: rgb(255, 255, 255);
         width: 100px;
         transform: scale(1);
     }
+    #
 }
